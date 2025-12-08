@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Mechanical Design CAD Project
-description: Advanced CAD Project
-technologies: [Autodesk Fusion]
+title: Mechanics of Engineering Materials Project
+description: Torque Wrench Design Project
+technologies: [Autodesk Fusion, ANSYS]
 image: /assets/images/radio-machine-cad.jpg
 ---
 
