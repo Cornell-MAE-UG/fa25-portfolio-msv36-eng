@@ -3,7 +3,7 @@ layout: project
 title: Mechanics of Engineering Materials Project
 description: Torque Wrench Design Project
 technologies: [Autodesk Fusion, ANSYS]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/DirDeform.png
 ---
 
 For an Intro to Mechanical Design class, we were asked to CAD a complex object. This design was...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. 
