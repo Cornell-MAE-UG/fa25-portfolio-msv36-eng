@@ -63,7 +63,7 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
+- President of [Club/Organization Name]  
 - Volunteer for [Event/Organization Name]  
 
 ---
