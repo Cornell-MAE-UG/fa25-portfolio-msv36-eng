@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.27/4.0 | Graduation: May, 2027
+  GPA: 3.256/4.0 | Graduation: May, 2027
 
 - **Tampa Preparatory School**  
   *High School Diploma*  
@@ -28,18 +28,20 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 
 ---
 
-#### Skills
-- **Software:** Autodesk Fusion 360, Autodesk Inventor, LUA  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+#### Skills 
+- **Technical Skills:** CAD, Fusion, Product Development & Prototyping
+- **Programming Skills:** Python, LUA, MATLAB, Stata, Excel 
+- **Certifications:** Autodesk Inventor (2021) 
+- **Language:** Spanish (Advanced; Study Abroad in Madrid Summer 2025)
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Engine Dissection**:  
+  *The purpose of this project was to apply fluid mechanics to a real world object. Our object was a Kohler v-twin engine.*   
+
+- **Torque Wrench Design**:  
+  *For a Mechanics of Engineering Materials class, I designed and analyzed a strain-gauged torque wrench. The goal was to start from a simple rectangular beam and develop a wrench geometry that: delivers a target torque of 600 in-lbf, produces at least 1.0 mV/V output from a strain-gauge bridge, and still satisfies safety factors for yield, crack growth, and fatigue.*   
 
 - **[Project Title]**:  
   *[Short Description]*  
