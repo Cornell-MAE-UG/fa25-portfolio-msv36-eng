@@ -43,10 +43,8 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 - **Torque Wrench Design**:  
   *For a Mechanics of Engineering Materials class, I designed and analyzed a strain-gauged torque wrench. The goal was to start from a simple rectangular beam and develop a wrench geometry that: delivers a target torque of 600 in-lbf, produces at least 1.0 mV/V output from a strain-gauge bridge, and still satisfies safety factors for yield, crack growth, and fatigue.*   
 
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Attitude Control System**:  
+  *For a final project in my System Dynamics course, our group of four selected a satellite Attitude Control System (ACS) as the system of interest. Our goal was to apply modeling, control, and analysis concepts learned throughout the semester to a realistic engineering problem.*  
 
 ---
 
@@ -65,8 +63,8 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 ---
 
 #### Extracurricular Activities
-- President of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- President of Big Red Bears 
+- Vice President of Learning & Development of Kappa Delta 
 
 ---
 
