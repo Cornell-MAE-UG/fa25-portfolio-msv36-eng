@@ -49,16 +49,25 @@ Aspiring engineering student with a strong foundation in mechanical engineering 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Undergraduate Teaching Assistant**  
+  January, 2026 - Present  
+  - Lead lab sections for a 600-student mechanical design course,supporting hands-on projects and troubleshooting design and manufacturing issues  
+  - Grade assignments and collaborate with the professor and TA team to support course delivery and guide students toward Red Apron certification
 
----
+- **Teaching Fellow**  
+  January 2025 - Present
+  - Lead discussions and office hours for high school students in ENGRI 1165: Climate Change and You, The Engineer 
+  - Facilitate weekly Zoom sessions, grade assignments, and provide academic support to help students gain college-level experience and credit
 
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- **Autodesk Design and Make Ambassador**  
+  September 2024 - Present  
+  - Promote Autodesk software and 3D printing on the university campus through monthly workshops, weekly Zoom sessions, and tabling events 
+  - Create social media posts to advertise career opportunities and events in STEM
+
+- **STEM Instructor**  
+  May 2024 - August 2024  
+  - Facilitated lessons in coding languages (Python, LUA), 3D printing, and robotics to classes of 6-14 year olds, communicating with parents on a daily basis on student performances
+  - Collaborated with the manager regarding scheduling and inventory needs, and documented incident reports with human resources
 
 ---
 
