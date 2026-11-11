@@ -107,8 +107,14 @@ Mechanical Engineering senior at Cornell University and incoming Master of Engin
 ---
 
 #### Extracurricular Activities
-- President of Big Red Bears 
-- Vice President of Learning & Development of Kappa Delta 
+*President — Big Red Bears*
+  - Lead Cornell’s mascot organization, coordinating approximately 40 volunteers, event scheduling, safety training, and campus and community appearances.
+
+*Former Vice President of Learning & Development — Kappa Delta*
+  - Managed new member education for a 175-member chapter, guiding a 54-person new member class through programming and initiation while coordinating chapter and university requirements.
+
+*Vice President — Last Lecture*
+  - Support organizational leadership and member coordination.
 
 ---
 
