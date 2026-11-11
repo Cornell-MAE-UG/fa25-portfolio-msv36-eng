@@ -47,6 +47,18 @@ Mechanical Engineering senior at Cornell University and incoming Master of Engin
 ---
 
 #### Projects
+- **Manufacturing Tray Redesign**:
+  *During my internship at Jabil, I redesigned a manufacturing tray in Creo to keep parts secure during handling and transportation. I developed and revised the design while considering material choices, prototyping methods, and how operators would use the tray.*
+
+- **Grinder Cell Process Improvement**:
+  *During my internship at Jabil, I conducted time studies and analyzed workstation layouts to identify unnecessary operator travel. I collaborated with the manufacturing team to recommend equipment and layout changes projected to reduce operator travel by approximately 35%.*
+
+- **Automated Guided Vehicle Implementation Research**:
+  *During my internship at Jabil, I supported research into introducing automated guided vehicles at U.S. manufacturing facilities. I reviewed plant layouts, collaborated with engineers, and contacted the robotics manufacturer to identify implementation requirements and develop next steps.*
+
+- **Autonomous Robotics Design**:
+  *For my Mechatronics course, our three-person team designed and built an autonomous cube-collection robot using Arduino, C, sensors, and motors. I designed the circuitry, CAD base, guide walls, and detachable mechanism, refining the design through testing to improve reliability. Our robot was selected to participate in an ASML exhibition match.*
+
 - **Engine Dissection**:  
   *The purpose of this project was to apply fluid mechanics to a real world object. Our object was a Kohler v-twin engine.*   
 
