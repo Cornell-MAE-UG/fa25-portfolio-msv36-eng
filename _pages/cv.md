@@ -20,24 +20,29 @@ Mechanical Engineering senior at Cornell University and incoming Master of Engin
 #### Education
 - **Cornell University**  
   *Master of Engineering in Engineering Management*  
-  Starting January 2027
+  Expected December 2027
 
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering* 
   *Minor in Business for Engineers* 
-  GPA: 3.192/4.0 | Graduation: May, 2027
+  Expected May 2027
+  GPA: 3.192/4.0
 
 - **Tampa Preparatory School**  
   *High School Diploma*  
-  GPA: 4.75/4.0 Graduation: May, 2023
+  Graduated May 2023
+  GPA: 4.75/4.0 
 
 ---
 
 #### Skills 
-- **Technical Skills:** CAD, Fusion, Product Development & Prototyping
-- **Programming Skills:** Python, LUA, MATLAB, Stata, Excel 
-- **Certifications:** Autodesk Inventor (2021) 
-- **Language:** Spanish (Advanced; Study Abroad in Madrid Summer 2025)
+- **Design & Engineering Tools:** Creo, Fusion, Autodesk Inventor, Windchill, ANSYS
+- **Programming & Data Analysis:** Python, C, MATLAB, Excel, Stata, LabVIEW
+- **Prototyping & Fabrication:** 3D printing, laser cutting, CNC machining, Arduino
+- **Process Improvement & Project Work:** A3 problem solving, time studies, workflow analysis, technical documentation, technology feasibility research, project coordination
+- **Product Development:** User research, concept development, CAD modeling, prototyping, iterative testing
+- **Business & Productivity Tools:** Microsoft Word, PowerPoint, Outlook, SAP
+- **Languages:** English, advanced Spanish, including study abroad in Madrid, Summer 2025
 
 ---
 
