@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/NewResume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [msv36@cornell.edu](mailto:msv36@cornell.edu) | | | **Phone:** +727 871 2911
+**Email:** [msv36@cornell.edu](mailto:msv36@cornell.edu) | | | **Phone:** +1 727 871 2911
 
 ---
 
