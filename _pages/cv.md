@@ -12,19 +12,24 @@ permalink: /cv/
 
 ---
 
-#### Objective
-Aspiring engineering student with a strong foundation in mechanical engineering and management. Passionate about ... and eager to apply my knowledge in real-world applications.
+#### Professional Summary
+Mechanical Engineering senior at Cornell University and incoming Master of Engineering Management student with experience in manufacturing, mechanical design, and process improvement. Through my internship at Jabil, I developed manufacturing aids, analyzed production workflows, and supported automation research and engineering documentation. I am interested in product development, project management, and operations roles that combine technical problem solving with collaboration and leadership.
 
 ---
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.256/4.0 | Graduation: May, 2027
+  *Master of Engineering in Engineering Management*  
+  Starting January 2027
+
+- **Cornell University**  
+  *Bachelor of Science in Mechanical and Aerospace Engineering* 
+  *Minor in Business for Engineers* 
+  GPA: 3.192/4.0 | Graduation: May, 2027
 
 - **Tampa Preparatory School**  
   *High School Diploma*  
-  Graduation: [May, 2023]
+  GPA: 4.75/4.0 Graduation: May, 2023
 
 ---
 
