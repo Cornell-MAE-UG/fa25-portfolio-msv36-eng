@@ -6,7 +6,7 @@ title: <Madeleine Vercher>
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/maddiepic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/NewPhot.png" | relative_url }}){: class="profile-image"}
 
  My name is Madeleine Vercher, and I am a junior at Cornell University studying Mechanical Engineering with a minor in Business. I am passionate about understanding how systems behave, how people use them, and how engineering decisions influence real-world outcomes. After graduation, I plan to pursue a master’s degree in Engineering Management to bridge my technical background with leadership, strategy, and project execution.
 
